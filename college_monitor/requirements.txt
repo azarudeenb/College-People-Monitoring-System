@@ -1,8 +1,9 @@
-ultralytics>=8.0.0
-opencv-python>=4.8.0
-deepface>=0.0.79
-numpy>=1.24.0
-supervision>=0.16.0
-matplotlib>=3.7.0
-streamlit>=1.28.0
-tf-keras>=2.15.0
+ultralytics==8.3.0
+opencv-python-headless==4.10.0.84
+deepface==0.0.79
+numpy==1.26.4
+supervision==0.25.1
+matplotlib==3.9.2
+streamlit==1.38.0
+tensorflow==2.15.0
+tf-keras==2.15.0
